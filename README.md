@@ -3,4 +3,5 @@ image:
 link:
 https://roadmap.sh/projects/changelog-component
 projet:
+https://hajar2025.github.io/changelog-component/
 
